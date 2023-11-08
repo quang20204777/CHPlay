@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChPlay</string>
+    <string name="todo">TODO</string>
+    <string name="reddit">Reddit</string>
+    <string name="_4_1">4.1 ★</string>
+    <string name="game">Game</string>
+    <string name="right_row">right_row</string>
+    <string name="games">Games</string>
+    <string name="apps">Apps</string>
+    <string name="books">Books</string>
+    <string name="search_hint"><![CDATA[Search apps & ...]]></string>
+</resources>
