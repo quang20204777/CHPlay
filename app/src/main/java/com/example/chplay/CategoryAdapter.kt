@@ -11,10 +11,6 @@ import androidx.recyclerview.widget.RecyclerView
 class CategoryAdapter(private val dataCategory: List<Category>) :
     RecyclerView.Adapter<CategoryAdapter.ViewHolder>() {
 
-    /**
-     * Provide a reference to the type of views that you are using
-     * (custom ViewHolder)
-     */
     class ViewHolder(view: View) : RecyclerView.ViewHolder(view) {
         val category: TextView
         val categoryList: RecyclerView
